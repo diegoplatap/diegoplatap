@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegoplatap
-- 👀 I’m interested in Web and mobile development.
+- 👀 I love Web and mobile development.
 - 🌱 I’m currently learning to become a full stack developer.
 - 📫 How to reach me IG:@diegoplatap 
 
