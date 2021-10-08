@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @diegoplatap
+- 👋 Hi, I’m Diego Plata Peña
 - 👀 I love Web and mobile development.
-- 🌱 I’m currently learning to become a full stack developer.
+- 🌱 I’m a full stack javascript developer.
 - 📫 How to reach me IG:@diegoplatap 
 
 <!---
