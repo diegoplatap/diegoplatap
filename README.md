@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego Plata Peña
 - 👀 I love Web and mobile development.
 - 🌱 I’m a full stack javascript developer.
-- 📫 How to reach me IG:@diegoplatap 
+- 📫 How to reach me: diegooplata@gmail.com
 
 <!---
 diegoplatap/diegoplatap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
