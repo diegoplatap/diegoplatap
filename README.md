@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego Plata Peña
 - 👀 I love Web and mobile development.
-- 🌱 I’m a full stack javascript developer. test
+- 🌱 I’m a full stack javascript . test
 - jello
 - 📫 How to reach me: diegooplata@gmail.com
 
